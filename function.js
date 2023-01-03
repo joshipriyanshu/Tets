@@ -66,4 +66,4 @@ function useret(num){
 
 }
 
-console.log(useret(10))
+console.log(useret(10)) // Nothing
