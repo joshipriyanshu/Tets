@@ -85,4 +85,12 @@ var strr = " hi there" + " how are you "
 
 console.log(strr)
 
+// template literals
 
+let fstname = "abhishesk"
+let scndname= "Ashish"
+
+console.log(` the two commons name start
+                with a in inida aren ${fstname} and ${scndname}
+    
+    `)
